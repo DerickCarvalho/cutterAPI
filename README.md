@@ -4,9 +4,9 @@ API para gerar código Cutter baseado na revisão Cutter-Sanborn.
 
 # Como usar:
 
-1 - Copie o seguinte código: <script src="https://cdn.jsdelivr.net/gh/DerickCarvalho/cutterAPI/api.js"></script>
-2 - Cole o código copiado dentro do seu html (de preferência em cima de qualquer outra tag script, e no final da tag body);
-3 - A API já está linkada e funcional, para usa-la basta usar o seguinte código:
+- 1 - Copie o seguinte código: <script src="https://cdn.jsdelivr.net/gh/DerickCarvalho/cutterAPI/api.js"></script>
+- 2 - Cole o código copiado dentro do seu html (de preferência em cima de qualquer outra tag script, e no final da tag body);
+- 3 - A API já está linkada e funcional, para usa-la basta usar o seguinte código:
 
 <b>const buscarCodigo = buscarMaisSimilar(data, lastName).codigo;</b>
 

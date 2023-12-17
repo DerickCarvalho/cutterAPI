@@ -8,7 +8,7 @@ API para gerar código Cutter baseado na revisão Cutter-Sanborn.
 2 - Cole o código copiado dentro do seu html (de preferência em cima de qualquer outra tag script, e no final da tag body);
 3 - A API já está linkada e funcional, para usa-la basta usar o seguinte código:
 
-# const buscarCodigo = buscarMaisSimilar(data, lastName).codigo;
+<b>const buscarCodigo = buscarMaisSimilar(data, lastName).codigo;</b>
 
 <b>O.B.S.: SUBSTITUA A VARIÁVEL 'lastName' PELA VARIÁVEL DA SUA APLICAÇÃO</b>
 
@@ -17,6 +17,5 @@ API para gerar código Cutter baseado na revisão Cutter-Sanborn.
 Basta pegar a string do nome do projeto, e buscar a primeira letra da string do mesmo, e após isso, 
 colocar em letras minúsculas, como no exemplo:
 
-<b>let primeiraLetraTrabalho = nomeTrabalho[0];</b>
-
+<b>let primeiraLetraTrabalho = nomeTrabalho[0];</b></br>
 <b>primeiraLetraTrabalho = primeiraLetraTrabalho.toLowerCase();</b>

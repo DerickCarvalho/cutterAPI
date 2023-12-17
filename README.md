@@ -18,4 +18,5 @@ Basta pegar a string do nome do projeto, e buscar a primeira letra da string do 
 colocar em letras minúsculas, como no exemplo:
 
 <b>let primeiraLetraTrabalho = nomeTrabalho[0];</b>
+
 <b>primeiraLetraTrabalho = primeiraLetraTrabalho.toLowerCase();</b>

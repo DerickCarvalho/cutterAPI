@@ -49432,8 +49432,6 @@ var data = [{
   }
 ];
 
-let lastName = "";
-
 // Verificar similaridade
 function calcularSimilaridade(string1, string2) {
   let contador = 0;

@@ -49466,8 +49466,6 @@ function buscarMaisSimilar(array, sobrenome) {
   return resultado;
 }
 
-const resultCodigo = buscarMaisSimilar(data, lastName).codigo;
+const resultadoCutter = buscarMaisSimilar(data, lastName).codigo;
 
-const finalResult = resultCodigo + primeiraLetraTrabalho;
-
-console.log(finalResult);
+console.log(resultadoCutter);

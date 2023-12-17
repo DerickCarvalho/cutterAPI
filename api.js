@@ -49463,7 +49463,3 @@ function buscarMaisSimilar(array, sobrenome) {
 
   return resultado;
 }
-
-const resultadoCutter = buscarMaisSimilar(data, lastName).codigo;
-
-console.log(resultadoCutter);

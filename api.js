@@ -49432,13 +49432,6 @@ var data = [{
   }
 ];
 
-
-let nomeTrabalho = "";
-
-let primeiraLetraTrabalho = nomeTrabalho[0];
-
-primeiraLetraTrabalho = primeiraLetraTrabalho.toLowerCase();
-
 let lastName = "";
 
 
